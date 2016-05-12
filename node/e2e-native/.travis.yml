@@ -1,0 +1,23 @@
+language: node_js
+env:
+  - CXX=g++-4.8
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
+node_js:
+  - "node"
+  - "4.2"
+  - "0.12"
+  - "iojs"
+install:
+  - npm run dev-up
+script:
+  - npm run ci
+after_script:
+  - codeclimate-test-reporter < ./coverage/lcov.info
+addons:
+  code_climate:
+    repo_token: CODE_CLIMATE_TOKEN

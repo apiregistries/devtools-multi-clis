@@ -1,0 +1,117 @@
+2385-04-21T08:48:17.437980000 0.070840s notice: In recursion: removing file 'D:\\Dockistry-Bat\\rethinkdb_data\\tmp'
+2385-04-21T08:48:17.463043500 0.085134s warn: Trying to delete non-existent file 'D:\\Dockistry-Bat\\rethinkdb_data\\tmp'
+2385-04-21T08:48:17.468051300 0.091057s notice: Initializing directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T08:48:17.478471900 0.100190s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'D:\\Dockistry-Bat\\rethinkdb_data' did not already exist or is empty.)
+2385-04-21T08:48:17.478471901 0.100250s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T08:48:17.480476800 0.102165s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T08:48:17.481976600 0.103766s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T08:48:18.279151700 0.901224s info: Automatically using cache size of 2826 MB
+2385-04-21T08:48:18.366078300 0.987819s notice: Listening for intracluster connections on port 29015
+2385-04-21T08:48:18.489653400 1.111327s notice: Listening for client driver connections on port 28015
+2385-04-21T08:48:18.489653401 1.111595s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T08:48:18.489653402 1.111598s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T08:48:18.489653403 1.111600s notice: Listening on driver address: 127.0.0.1
+2385-04-21T08:48:18.489653404 1.111602s notice: Listening on http address: 127.0.0.1
+2385-04-21T08:48:18.489653405 1.111603s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T08:48:18.489653406 1.111605s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
+2385-04-21T08:54:12.651502200 0.039573s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T08:54:12.653002800 0.041253s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T08:54:12.654003100 0.042048s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T08:54:12.722996000 0.110915s info: Automatically using cache size of 2885 MB
+2385-04-21T08:54:12.725230400 0.113273s notice: Listening for intracluster connections on port 29015
+2385-04-21T08:54:12.726231200 0.114526s notice: Listening for client driver connections on port 28015
+2385-04-21T08:54:12.726231201 0.114714s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T08:54:12.726231202 0.114715s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T08:54:12.726231203 0.114717s notice: Listening on driver address: 127.0.0.1
+2385-04-21T08:54:12.726231204 0.114718s notice: Listening on http address: 127.0.0.1
+2385-04-21T08:54:12.726231205 0.114720s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T08:54:12.726231206 0.114721s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
+2385-04-21T08:55:58.781238100 0.012508s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T08:55:58.782737800 0.013823s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T08:55:58.783738500 0.014599s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T08:55:59.069281300 0.300536s info: Automatically using cache size of 2925 MB
+2385-04-21T08:55:59.071789100 0.302880s notice: Listening for intracluster connections on port 29015
+2385-04-21T08:55:59.073289700 0.304498s notice: Listening for client driver connections on port 28015
+2385-04-21T08:55:59.073787500 0.304734s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T08:55:59.073787501 0.304736s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T08:55:59.073787502 0.304738s notice: Listening on driver address: 127.0.0.1
+2385-04-21T08:55:59.073787503 0.304739s notice: Listening on http address: 127.0.0.1
+2385-04-21T08:55:59.073787504 0.304741s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T08:55:59.073787505 0.304744s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
+2385-04-21T08:59:02.339840000 0.013313s error: --daemon not implemented on windows
+2385-04-21T09:00:08.058316700 0.011799s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T09:00:08.058316701 0.011870s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T09:00:08.058316702 0.011885s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T09:00:08.147943000 0.100886s notice: Ignoring --initial-password option because the admin password is already configured.
+2385-04-21T09:00:08.149601000 0.102608s info: Automatically using cache size of 3006 MB
+2385-04-21T09:00:08.151101700 0.104037s notice: Listening for intracluster connections on port 29015
+2385-04-21T09:00:08.152103200 0.105060s notice: Listening for client driver connections on port 28015
+2385-04-21T09:00:08.152103201 0.105199s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T09:00:08.152103202 0.105202s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T09:00:08.152103203 0.105203s notice: Listening on driver address: 127.0.0.1
+2385-04-21T09:00:08.152103204 0.105204s notice: Listening on http address: 127.0.0.1
+2385-04-21T09:00:08.152103205 0.105205s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T09:00:08.152103206 0.105206s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
+2385-04-21T09:00:27.832538900 19.785269s notice: Server got Close (End Task) Event; shutting down...
+2385-04-21T09:00:37.117782800 0.008974s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T09:00:37.117782801 0.009051s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T09:00:37.117782802 0.009065s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T09:00:37.206124400 0.097347s notice: Ignoring --initial-password option because the admin password is already configured.
+2385-04-21T09:00:37.211525200 0.102755s info: Automatically using cache size of 2991 MB
+2385-04-21T09:00:37.216528300 0.107987s notice: Listening for intracluster connections on port 29015
+2385-04-21T09:00:37.220031700 0.111574s notice: Listening for client driver connections on port 28015
+2385-04-21T09:00:37.220531600 0.112028s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T09:00:37.220531601 0.112041s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T09:00:37.220531602 0.112043s notice: Listening on driver address: 127.0.0.1
+2385-04-21T09:00:37.220531603 0.112048s notice: Listening on http address: 127.0.0.1
+2385-04-21T09:00:37.220531604 0.112050s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T09:00:37.220531605 0.112055s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
+2385-04-21T09:01:06.026492100 28.918052s notice: Server got Close (End Task) Event; shutting down...
+2385-04-21T09:03:35.289820000 0.011351s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T09:03:35.289820001 0.011436s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T09:03:35.289820002 0.011451s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T09:03:35.359101100 0.080664s notice: Ignoring --initial-password option because the admin password is already configured.
+2385-04-21T09:03:35.361106400 0.082623s info: Automatically using cache size of 2983 MB
+2385-04-21T09:03:35.362607800 0.084500s notice: Listening for intracluster connections on port 29015
+2385-04-21T09:03:35.364108100 0.085567s notice: Listening for client driver connections on port 28015
+2385-04-21T09:03:35.364108101 0.085709s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T09:03:35.364108102 0.085712s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T09:03:35.364108103 0.085712s notice: Listening on driver address: 127.0.0.1
+2385-04-21T09:03:35.364108104 0.085714s notice: Listening on http address: 127.0.0.1
+2385-04-21T09:03:35.364108105 0.085714s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T09:03:35.364108106 0.085716s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
+2385-04-21T09:07:59.861768600 264.583573s notice: Server got Control-C; shutting down...
+2385-04-21T09:07:59.862269800 264.583897s notice: Shutting down client connections...
+2385-04-21T09:07:59.862269801 264.584080s notice: All client connections closed.
+2385-04-21T09:07:59.862269802 264.584087s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2385-04-21T09:07:59.943269900 264.664730s notice: Storage engine shut down.
+2385-04-21T09:08:08.597994600 0.012111s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T09:08:08.597994601 0.012190s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T09:08:08.597994602 0.012205s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T09:08:08.684096600 0.098059s notice: Ignoring --initial-password option because the admin password is already configured.
+2385-04-21T09:08:08.686114700 0.099964s info: Automatically using cache size of 3001 MB
+2385-04-21T09:08:08.687600400 0.101816s notice: Listening for intracluster connections on port 29015
+2385-04-21T09:08:08.688601100 0.102856s notice: Listening for client driver connections on port 28015
+2385-04-21T09:08:08.689101400 0.102996s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T09:08:08.689101401 0.102999s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T09:08:08.689101402 0.103000s notice: Listening on driver address: 127.0.0.1
+2385-04-21T09:08:08.689101403 0.103001s notice: Listening on http address: 127.0.0.1
+2385-04-21T09:08:08.689101404 0.103001s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T09:08:08.689101405 0.103003s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
+2385-04-21T09:08:31.432886200 22.847098s notice: Server got Control-C; shutting down...
+2385-04-21T09:08:31.433386600 22.847246s notice: Shutting down client connections...
+2385-04-21T09:08:31.433386601 22.847341s notice: All client connections closed.
+2385-04-21T09:08:31.433386602 22.847344s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2385-04-21T09:08:31.433887000 22.847855s notice: Storage engine shut down.
+2385-04-21T09:11:33.420956000 0.008893s notice: Running rethinkdb 2.3.0-windows-beta (MSC 190023506)...
+2385-04-21T09:11:33.420956001 0.008983s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2385-04-21T09:11:33.420956002 0.008999s notice: Loading data from directory D:\\Dockistry-Bat\\rethinkdb_data
+2385-04-21T09:11:33.506922000 0.095115s info: Automatically using cache size of 2932 MB
+2385-04-21T09:11:33.508423500 0.096630s notice: Listening for intracluster connections on port 29015
+2385-04-21T09:11:33.509423800 0.097638s notice: Listening for client driver connections on port 28015
+2385-04-21T09:11:33.509924100 0.097767s notice: Listening for administrative HTTP connections on port 8080
+2385-04-21T09:11:33.509924101 0.097770s notice: Listening on cluster address: 127.0.0.1
+2385-04-21T09:11:33.509924102 0.097771s notice: Listening on driver address: 127.0.0.1
+2385-04-21T09:11:33.509924103 0.097773s notice: Listening on http address: 127.0.0.1
+2385-04-21T09:11:33.509924104 0.097773s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2385-04-21T09:11:33.509924105 0.097775s notice: Server ready, "christopher_6gj" 3c46c0ca-cc20-42ea-9f1c-ad4be0add8d6
