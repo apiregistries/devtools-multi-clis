@@ -29,5 +29,4 @@ the following products are included in this experimental CLI, each for a differe
 - npm/nodeJs 5.11+ for win7+ or via docker for linux servers
 - powershell scripted for win10
 
-
-
+![automated by ptero](https://raw.githubusercontent.com/dockistry/dockistry-assets/master/branding/ptero%20cli%20%26%20crm/assets/ptero-devops-automation.png)
